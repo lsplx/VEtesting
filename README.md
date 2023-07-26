@@ -13,8 +13,8 @@ VEglue Architecture:
 # Run the code
 python MR.py  
 
-Models for object detection:  https://github.com/RistoranteRist/mmlab-weights/releases/download/dino-swinl/dino-5scale_swin-l_8xb2-36e_coco-5486e051.pth
-Dataset: https://pan.baidu.com/s/1HLuZR1fvQW2Qj7ZXQ5xaww?pwd=pdos 
+- Models for object detection:  https://github.com/RistoranteRist/mmlab-weights/releases/download/dino-swinl/dino-5scale_swin-l_8xb2-36e_coco-5486e051.pth
+- Dataset: https://pan.baidu.com/s/1HLuZR1fvQW2Qj7ZXQ5xaww?pwd=pdos 
 
 
 
