@@ -1,5 +1,4 @@
-# Description
-The respositiy is public package of the paper titled "Object Matters: A Jointly Object-centric Perturbation Approach for Visual Entailment Testing" submitted to ICSE 2024-second.
+
 
 VEglue Architecture:  
 ![Image text](https://github.com/lsplx/VEtesting/blob/master/data/artifacture.png)
