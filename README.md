@@ -1,7 +1,5 @@
-
-
-VEglue Architecture:  
-![Image text](https://github.com/lsplx/VEtesting/blob/master/data/artifacture.png)
+# VEglue Architecture:  
+![Image text](https://github.com/lsplx/VEtesting/blob/master/data/artifacture_refine.png)
 - extractentity_VE.py uses chatgpt to extract entities
 - VG.py uses visual grounding model to locate the corresponding regions of semantic units
 
