@@ -1,13 +1,13 @@
-# VEglue:
+# VEglue
 This repository contains the source code for the paper VEglue: Testing Visual Entailment Systems via Object-Aligned Joint Erasing
 
-# Overview:  
+# Overview
 we propose VEglue, an object-aligned joint erasing approach for VE systems testing. It first aligns the object regions in the premise and object descriptions in the hypothesis to identify linked and un-linked objects. Then, based on the alignment information, three Metamorphic Relations are designed to jointly erase the objects of the two modalities.
 
 The overview of VEglue is shown in the figure below:  
 ![Image text](https://github.com/lsplx/VEtesting/blob/master/data/artifacture_refine.png)
 
-# Result:  
+# Result
 ![Image text](https://github.com/lsplx/VEtesting/blob/master/data/VEglue_result.png)
 ![Image text](https://github.com/lsplx/VEtesting/blob/master/data/MR_result.png)
 
